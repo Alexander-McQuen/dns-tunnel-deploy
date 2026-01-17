@@ -323,7 +323,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## Acknowledgments
 
-- [dnstt](https://dnstt.network) by David Fifield
+- [dnstt](https://www.bamsoftware.com/software/dnstt) by David Fifield
 - [Dante SOCKS server](https://www.inet.no/dante/) for SOCKS proxy functionality
 
 ## Support

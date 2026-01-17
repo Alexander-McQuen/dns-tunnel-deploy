@@ -324,7 +324,7 @@ sudo journalctl -u dnstt-server -f --no-pager # نظارت بر لاگ‌ها ب
 
 ## قدردانی
 
-- [dnstt](https://dnstt.network) توسط David Fifield
+- [dnstt](https://www.bamsoftware.com/software/dnstt) توسط David Fifield
 - [Dante SOCKS server](https://www.inet.no/dante/) برای قابلیت پروکسی SOCKS
 
 ## پشتیبانی
